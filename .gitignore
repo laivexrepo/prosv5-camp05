@@ -1,0 +1,5 @@
+#Things to ignore in repository
+.vscode
+bin
+firmware
+.json
